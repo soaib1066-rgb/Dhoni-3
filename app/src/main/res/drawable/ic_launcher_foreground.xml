@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <!-- Golden Dice Body -->
+        <path
+            android:fillColor="#F59E0B"
+            android:strokeColor="#FDE68A"
+            android:strokeWidth="2"
+            android:pathData="M30,34 h48 a6,6 0 0,1 6,6 v48 a6,6 0 0,1 -6,6 h-48 a6,6 0 0,1 -6,-6 v-48 a6,6 0 0,1 6,-6 z" />
+
+        <!-- Dice Dots (5 Face) -->
+        <path
+            android:fillColor="#78350F"
+            android:pathData="M40,46 a4,4 0 1,0 0.1,0 Z" />
+        <path
+            android:fillColor="#78350F"
+            android:pathData="M68,46 a4,4 0 1,0 0.1,0 Z" />
+        <path
+            android:fillColor="#78350F"
+            android:pathData="M54,64 a4,4 0 1,0 0.1,0 Z" />
+        <path
+            android:fillColor="#78350F"
+            android:pathData="M40,82 a4,4 0 1,0 0.1,0 Z" />
+        <path
+            android:fillColor="#78350F"
+            android:pathData="M68,82 a4,4 0 1,0 0.1,0 Z" />
+
+        <!-- Royal Crown on top -->
+        <path
+            android:fillColor="#FBBF24"
+            android:strokeColor="#FEF08A"
+            android:strokeWidth="1.5"
+            android:pathData="M34,30 L42,36 L54,24 L66,36 L74,30 L72,40 L36,40 Z" />
+
+        <!-- Star Sparkles -->
+        <path
+            android:fillColor="#FEF08A"
+            android:pathData="M24,24 L26,20 L28,24 L32,26 L28,28 L26,32 L24,28 L20,26 Z" />
+        <path
+            android:fillColor="#FEF08A"
+            android:pathData="M80,68 L82,65 L84,68 L87,70 L84,72 L82,75 L80,72 L77,70 Z" />
+    </group>
+</vector>

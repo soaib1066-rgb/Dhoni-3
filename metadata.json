@@ -1,0 +1,6 @@
+{
+  "name": "ধনী হবার মজার খেলা",
+  "description": "বাংলাদেশের ঐতিহ্যবাহী 2D বোর্ড গেম — ধনী হবার মজার খেলা। অফলাইন মোড, এআই বট এবং বন্ধুদের সাথে খেলার সুবিধা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

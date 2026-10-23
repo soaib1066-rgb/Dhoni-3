@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ধনী হবার মজার খেলা</string>
+    <string name="play_bot">বটের সঙ্গে খেলুন</string>
+    <string name="play_friends">বন্ধুদের সঙ্গে খেলুন</string>
+    <string name="roll_dice">ছক্কা চালুন</string>
+    <string name="buy_property">কিনুন</string>
+    <string name="pass_property">পাস করুন</string>
+    <string name="start_tile_name">শুরু</string>
+    <string name="jail_tile_name">জেলখানা</string>
+    <string name="chance_tile_name">ভাগ্য পরীক্ষা</string>
+    <string name="tax_tile_name">কর / জরিমানা</string>
+</resources>
